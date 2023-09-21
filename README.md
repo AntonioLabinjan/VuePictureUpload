@@ -40,26 +40,26 @@ npm run lint
 ```
 ### Running locally
 
-<ol>1.</ol> Navigate to project directory
+<ol>1. Navigate to project directory</ol>
 
 cd VuePictureUpload
 
-<ol>2.</ol> Install the project dependencies
+<ol>2. Install the project dependencies</ol>
 
 npm install
 
 ### Usage
-<ol>1.</ol> Start the development server
+<ol>1. Start the development server</ol>
 
 npm run serve
 
-<ol>2.</ol> Open your web browser and visit http://localhost:8080 to access the VuePictureUpload application.
+<ol>2. Open your web browser and visit http://localhost:8080 to access the VuePictureUpload application.</ol>
 
-<ol>3.</ol> Use the "Upload" button to select and upload images from your local device.
+<ol>3. Use the "Upload" button to select and upload images from your local device.</ol>
 
-<ol>4.</ol> The uploaded images will be displayed in the gallery below. You can upload multiple images, and they will appear one below the other.
+<ol>4. The uploaded images will be displayed in the gallery below. You can upload multiple images, and they will appear one below the other.</ol>
 
-<ol>5.</ol> Each image in the gallery is accompanied by a "Delete" button. Click on the "Delete" button to remove a specific image.
+<ol>5. Each image in the gallery is accompanied by a "Delete" button. Click on the "Delete" button to remove a specific image.</ol>
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
